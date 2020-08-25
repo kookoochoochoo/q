@@ -1,0 +1,3 @@
+* filter=git-crypt-nasa diff=git-crypt-nasa
+.gitattributes !filter !diff
+.git* !filter !diff
